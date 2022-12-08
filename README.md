@@ -7,7 +7,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `25m`  |  💼  - 03 - [ELearning: Fundamentals](https://user-images.githubusercontent.com/18606136/206438868-70b8ea35-bb8c-4445-8dbf-deed745eb513.png)
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `39m`  |  💼  - 04 - [Instructional Design](https://user-images.githubusercontent.com/18606136/206454141-e18823f1-220c-4b36-bd84-54c62c8c597d.png)
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h46m`  |  💼  - 05 - [Gamification In E-Learning](https://user-images.githubusercontent.com/18606136/206458659-2434be9a-45e6-4271-bce6-a8c60f0d89d4.png)
-⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h32m`  |  💼  - 05 - [UX Design Fundamentals](https://user-images.githubusercontent.com/18606136/206509626-47b6de57-6037-44c3-9d52-ab0a4da932ae.png)
+⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h32m`  |  💼  - 06 - [UX Design Fundamentals](https://user-images.githubusercontent.com/18606136/206509626-47b6de57-6037-44c3-9d52-ab0a4da932ae.png)
 
  ---
 ⏲️   08-12-2022  | 📅  08-12-2022   | ⭕️ `in progress` `8h36m`  |  💼  - 06 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
