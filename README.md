@@ -9,8 +9,6 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h46m`  |  💼  - 05 - [Gamification In E-Learning](https://user-images.githubusercontent.com/18606136/206458659-2434be9a-45e6-4271-bce6-a8c60f0d89d4.png)
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h32m`  |  💼  - 06 - [UX Design Fundamentals](https://user-images.githubusercontent.com/18606136/206509626-47b6de57-6037-44c3-9d52-ab0a4da932ae.png)
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h1m`  |  💼  - 07 - [Introduction to Software Testing or Software QA](https://www.udemy.com/course/introduction-to-software-testing-or-software-qa/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https://www.udemy.com/&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-yJ6AnnVHeOfy_6efI._ZnA&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
+⏲️   09-12-2022  | 📅  09-12-2022   | ⭕️ `in progress` `4h39m`  |  💼  - 08 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-6h57m-blue">
- ---
-⏲️   08-12-2022  | 📅  08-12-2022   | ⭕️ `in progress` `9h37m`  |  💼  - 06 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
-
