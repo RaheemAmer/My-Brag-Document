@@ -121,4 +121,24 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [operations-management](https://www.udemy.com/course/operations-management/)
 
+---
+
+### Videos [Technical]
+
+- []()
+
+---
+
+### Videos [Non-Technical]
+
+- []()
+
+---
+
+### Articles [Read]
+
+- [top-10-technical-articles-of-2022](https://about.gitlab.com/blog/2022/12/08/top-10-technical-articles-of-2022/)
+- [A Look at What's Coming to Laravel 10 ](https://laravel-news.com/laravel-10)
+- [Just laid off? Nervous about possible layoffs? Here’s what to do.](https://stackoverflow.blog/2022/12/05/just-laid-off-nervous-about-possible-layoffs-heres-what-to-do/)
+
 <!-- ⭕️ /> 
