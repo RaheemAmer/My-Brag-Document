@@ -14,3 +14,69 @@ Start Date | Finish Date | Status | Course Link / Certificate
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-11h36m-blue">
 
 <!-- ⭕️ /> 
+
+### JavaScript
+
+[](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
+
+[Learn JavaScript Programming](https://www.programiz.com/javascript)
+
+[Scrimba](https://scrimba.com/topic/javascript?ref=java5cript.com)
+
+[Your Guide to Learn Programming Algorithms | Coding Dojo](https://algorithm.codingdojo.com/lesson)
+
+[JavaScript Tutorial for Beginners: Learn Javascript Step by Step](https://www.guru99.com/interactive-javascript-tutorials.html)
+
+[Programming Hub](https://programminghub.io/learn)
+
+[Catalog Home | Codecademy](https://www.codecademy.com/catalog)
+
+[Introduction :: The Complete Introduction to Modern JavaScript](https://jscomplete.com/learn/complete-intro-modern-javascript)
+
+[Course: Javascript](https://maharatech.gov.eg/course/view.php?id=741)
+
+[JavaScript](https://egghead.io/q/javascript?access_state=free)
+
+[JavaScript - Table of Contents](https://www.quirksmode.org/js/contents.html)
+
+[JavaScript 30](https://javascript30.com/)
+
+[jsComplete: Learn Modern Full-stack JavaScript with Node and React](https://jscomplete.com/)
+
+[Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
+
+[JavaScript](https://www.codeguage.com/courses/js/)
+
+[JavaScript Guides](https://sebhastian.com/javascript-tutorials/)
+
+[](https://data-flair.training/blogs/javascript-architecture/)
+
+[CSX Structured JavaScript Learning Journey](https://csx.codesmith.io/home)
+
+[https://github.com/workshopper/javascripting](https://github.com/workshopper/javascripting)
+
+---
+
+**Total Hours to Learn HTML, CSS & JS**
+
+[Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
+
+[Home | Itrax Academy](https://itraxacademy.com/)
+
+[Interneting Is Hard](https://www.internetingishard.com/)
+
+[Learn](https://web.dev/learn/)
+
+[Full stack open 2022](https://fullstackopen.com/en/)
+
+[100 Days Of Projects - codedamn](https://codedamn.com/learn/100-days-of-projects)
+
+[App Academy - Login](https://my.appacademy.io/login?returnUrl=https%3A%2F%2Fmy.appacademy.io%2F)
+
+[Sign in | The Odin Project](https://www.theodinproject.com/dashboard)
+
+[كورسات IT Sharks المجانية](https://it-sharks.com/)
+
+[تسجيل الدخول لـ منصات الاتحاد السعودي للامن السيبراني والبرمجة والدرونز](https://sso.safcsp.cloud/auth/realms/main/protocol/openid-connect/auth?client_id=dashboard&redirect_uri=https%3A%2F%2Fsatr.codes%2Fcourses%2F7134c272-d7d6-40cf-bf3f-05cbe4f02fed%2Fsession%2F57c9442f-01ad-47f4-b00d-d0bc0091bf9a%2Fview&state=47199b50-721a-4288-8387-8af89f32097b&response_mode=fragment&response_type=code&scope=openid&nonce=70cc73dc-e4a3-458b-80e6-0c8f961dda87)
+
+[Homepage - Egypt FWD](https://egfwd.com/)
