@@ -14,10 +14,12 @@ Start Date | Finish Date | Status | Course Link / Certificate
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-11h36m-blue">
 
 ---
-##  TODO
-### JavaScript
+#  TODO
+## JavaScript
 
-[](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
+[JavaScript for Cats](http://jsforcats.com/)
+
+[javascript-computer-science-fundamentals](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
 
 [Learn JavaScript Programming](https://www.programiz.com/javascript)
 
@@ -49,7 +51,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 [JavaScript Guides](https://sebhastian.com/javascript-tutorials/)
 
-[](https://data-flair.training/blogs/javascript-architecture/)
+[javascript-architecture](https://data-flair.training/blogs/javascript-architecture/)
 
 [CSX Structured JavaScript Learning Journey](https://csx.codesmith.io/home)
 
@@ -57,7 +59,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ---
 
-**Total Hours to Learn HTML, CSS & JS**
+## Full Stack
 
 [Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
 
@@ -81,6 +83,42 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 [Homepage - Egypt FWD](https://egfwd.com/)
 
+---
 
+### Udemy Courses [Technical]
+
+[learn-typescript](https://www.udemy.com/course/learn-typescript/)
+
+[100-days-of-code-web-development-bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+
+[the-complete-web-development-bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+[master-the-coding-interview-data-structures-algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+[complete-nodejs-developer-zero-to-mastery](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+
+---
+
+### Udemy Courses [Non-Technical]
+
+[agile-bootcamp/](https://www.udemy.com/course/agile-bootcamp/)
+
+[email-etiquette-email-netiquette-email-guidelines/](https://www.udemy.com/course/email-etiquette-email-netiquette-email-guidelines/)
+
+[software_methodologies/](https://www.udemy.com/course/software_methodologies/)
+
+[negotiation-tactics](https://www.udemy.com/course/negotiation-tactics/)
+
+[how-to-negotiate-salary-the-negotiation-mindset](https://www.udemy.com/course/how-to-negotiate-salary-the-negotiation-mindset/)
+
+[manageyourtime](https://www.udemy.com/course/manageyourtime)
+
+[scrum-methodology](https://www.udemy.com/course/scrum-methodology/)
+
+[how-to-deal-with-difficult-managers](https://www.udemy.com/course/how-to-deal-with-difficult-managers)
+
+[agile-scrum-certification](https://www.udemy.com/course/agile-scrum-certification)
+
+[operations-management](https://www.udemy.com/course/operations-management/)
 
 <!-- ⭕️ /> 
