@@ -1,4 +1,4 @@
-# My Learning roadmap
+# My Brag Document
 
 Start Date | Finish Date | Status | Course Link / Certificate
 ------------ | ------------- | ------------- | -------------
@@ -136,6 +136,30 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ---
 
 ### Videos [Non-Technical]
+
+- []()
+
+---
+
+### Projects [HTML-CSS]
+
+- []()
+
+---
+
+### Projects [HTML-CSS-JS]
+
+- []()
+
+---
+
+### Projects [Frontend]
+
+- []()
+
+---
+
+### Projects [FullStack]
 
 - []()
 
