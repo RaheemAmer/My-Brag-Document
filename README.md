@@ -14,11 +14,11 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   15-12-2022  | 📅  15-12-2022   | ⏲️ `Pending` `25h`  |  💼  - 10 - [Rithm School JavaScript Fundamentals](https://www.rithmschool.com/courses/javascript)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-13h6m-blue">
- 
+
 ---
 
-#  TODO
-## JavaScript
+##  TODO
+### JavaScript
 
 - [JavaScript for Cats](http://jsforcats.com/)
 
