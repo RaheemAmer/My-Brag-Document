@@ -73,6 +73,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Learn](https://web.dev/learn/)
 
+- [freecodecamp](https://www.freecodecamp.org/)
+
 - [Full stack open 2022](https://fullstackopen.com/en/)
 
 - [100 Days Of Projects - codedamn](https://codedamn.com/learn/100-days-of-projects)
