@@ -10,6 +10,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h32m`  |  💼  - 06 - [UX Design Fundamentals](https://user-images.githubusercontent.com/18606136/206509626-47b6de57-6037-44c3-9d52-ab0a4da932ae.png)
 ⏲️   08-12-2022  | 📅  08-12-2022   | ✅ `Done` `1h1m`  |  💼  - 07 - [Introduction to Software Testing or Software QA](https://www.udemy.com/course/introduction-to-software-testing-or-software-qa/?id=*fXwwmOZxWA&mid=39197&u1=120189_&murl=https://www.udemy.com/&ranMID=39197&ranEAID=*fXwwmOZxWA&ranSiteID=.fXwwmOZxWA-yJ6AnnVHeOfy_6efI._ZnA&LSNPUBID=*fXwwmOZxWA&utm_source=aff-campaign&utm_medium=udemyads)
 ⏲️   09-12-2022  | 📅  11-12-2022   | ✅ `Done` `4h39m`  |  💼  - 08 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
+⏲️   15-12-2022  | 📅  11-12-2022   | ⭕️ `Pending` `4h39m`  |  💼  - 09 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-11h36m-blue">
 
@@ -171,4 +172,4 @@ Start Date | Finish Date | Status | Course Link / Certificate
 - [A Look at What's Coming to Laravel 10 ](https://laravel-news.com/laravel-10)
 - [Just laid off? Nervous about possible layoffs? Here’s what to do.](https://stackoverflow.blog/2022/12/05/just-laid-off-nervous-about-possible-layoffs-heres-what-to-do/)
 
-<!-- ⭕️ /> 
+ 
