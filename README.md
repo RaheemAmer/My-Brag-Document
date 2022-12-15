@@ -84,6 +84,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Sign in | The Odin Project](https://www.theodinproject.com/dashboard)
 
+- [Free 30 Week Software Engineering Bootcamp](https://www.youtube.com/watch?v=YRemMgGfbKg&list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
+
 - [كورسات IT Sharks المجانية](https://it-sharks.com/)
 
 - [تسجيل الدخول لـ منصات الاتحاد السعودي للامن السيبراني والبرمجة والدرونز](https://sso.safcsp.cloud/auth/realms/main/protocol/openid-connect/auth?client_id=dashboard&redirect_uri=https%3A%2F%2Fsatr.codes%2Fcourses%2F7134c272-d7d6-40cf-bf3f-05cbe4f02fed%2Fsession%2F57c9442f-01ad-47f4-b00d-d0bc0091bf9a%2Fview&state=47199b50-721a-4288-8387-8af89f32097b&response_mode=fragment&response_type=code&scope=openid&nonce=70cc73dc-e4a3-458b-80e6-0c8f961dda87)
@@ -132,7 +134,15 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ### Videos [Technical]
 
-- []()
+- [ Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf ](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
+- [ Object Oriented Programming vs Functional Programming ](https://www.youtube.com/watch?v=wyABTfR9UTU&t=3s)
+
+- [ Learn Functional Programming With JavaScript | FREE COURSE ](https://www.youtube.com/watch?v=XvLMO2wE3OQ)
+
+- [ Higher-order functions - Part 1 of Functional Programming in JavaScript ](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+- [ Learn Functional Programming in JavaScript ](https://www.youtube.com/watch?v=n_F8PD4YxG0)
 
 ---
 
