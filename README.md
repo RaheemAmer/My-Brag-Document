@@ -17,108 +17,108 @@ Start Date | Finish Date | Status | Course Link / Certificate
 #  TODO
 ## JavaScript
 
-[JavaScript for Cats](http://jsforcats.com/)
+- [JavaScript for Cats](http://jsforcats.com/)
 
-[javascript-computer-science-fundamentals](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
+- [javascript-computer-science-fundamentals](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
 
-[Learn JavaScript Programming](https://www.programiz.com/javascript)
+- [Learn JavaScript Programming](https://www.programiz.com/javascript)
 
-[Scrimba](https://scrimba.com/topic/javascript?ref=java5cript.com)
+- [Scrimba](https://scrimba.com/topic/javascript?ref=java5cript.com)
 
-[Your Guide to Learn Programming Algorithms | Coding Dojo](https://algorithm.codingdojo.com/lesson)
+- [Your Guide to Learn Programming Algorithms | Coding Dojo](https://algorithm.codingdojo.com/lesson)
 
-[JavaScript Tutorial for Beginners: Learn Javascript Step by Step](https://www.guru99.com/interactive-javascript-tutorials.html)
+- [JavaScript Tutorial for Beginners: Learn Javascript Step by Step](https://www.guru99.com/interactive-javascript-tutorials.html)
 
-[Programming Hub](https://programminghub.io/learn)
+- [Programming Hub](https://programminghub.io/learn)
 
-[Catalog Home | Codecademy](https://www.codecademy.com/catalog)
+- [Catalog Home | Codecademy](https://www.codecademy.com/catalog)
 
-[Introduction :: The Complete Introduction to Modern JavaScript](https://jscomplete.com/learn/complete-intro-modern-javascript)
+- [Introduction :: The Complete Introduction to Modern JavaScript](https://jscomplete.com/learn/complete-intro-modern-javascript)
 
-[Course: Javascript](https://maharatech.gov.eg/course/view.php?id=741)
+- [Course: Javascript](https://maharatech.gov.eg/course/view.php?id=741)
 
-[JavaScript](https://egghead.io/q/javascript?access_state=free)
+- [JavaScript](https://egghead.io/q/javascript?access_state=free)
 
-[JavaScript - Table of Contents](https://www.quirksmode.org/js/contents.html)
+- [JavaScript - Table of Contents](https://www.quirksmode.org/js/contents.html)
 
-[JavaScript 30](https://javascript30.com/)
+- [JavaScript 30](https://javascript30.com/)
 
-[jsComplete: Learn Modern Full-stack JavaScript with Node and React](https://jscomplete.com/)
+- [jsComplete: Learn Modern Full-stack JavaScript with Node and React](https://jscomplete.com/)
 
-[Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
+- [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
-[JavaScript](https://www.codeguage.com/courses/js/)
+- [JavaScript](https://www.codeguage.com/courses/js/)
 
-[JavaScript Guides](https://sebhastian.com/javascript-tutorials/)
+- [JavaScript Guides](https://sebhastian.com/javascript-tutorials/)
 
-[javascript-architecture](https://data-flair.training/blogs/javascript-architecture/)
+- [javascript-architecture](https://data-flair.training/blogs/javascript-architecture/)
 
-[CSX Structured JavaScript Learning Journey](https://csx.codesmith.io/home)
+- [CSX Structured JavaScript Learning Journey](https://csx.codesmith.io/home)
 
-[https://github.com/workshopper/javascripting](https://github.com/workshopper/javascripting)
+- [https://github.com/workshopper/javascripting](https://github.com/workshopper/javascripting)
 
 ---
 
 ## Full Stack
 
-[Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
+- [Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
 
-[Home | Itrax Academy](https://itraxacademy.com/)
+- [Home | Itrax Academy](https://itraxacademy.com/)
 
-[Interneting Is Hard](https://www.internetingishard.com/)
+- [Interneting Is Hard](https://www.internetingishard.com/)
 
-[Learn](https://web.dev/learn/)
+- [Learn](https://web.dev/learn/)
 
-[Full stack open 2022](https://fullstackopen.com/en/)
+- [Full stack open 2022](https://fullstackopen.com/en/)
 
-[100 Days Of Projects - codedamn](https://codedamn.com/learn/100-days-of-projects)
+- [100 Days Of Projects - codedamn](https://codedamn.com/learn/100-days-of-projects)
 
-[App Academy - Login](https://my.appacademy.io/login?returnUrl=https%3A%2F%2Fmy.appacademy.io%2F)
+- [App Academy - Login](https://my.appacademy.io/login?returnUrl=https%3A%2F%2Fmy.appacademy.io%2F)
 
-[Sign in | The Odin Project](https://www.theodinproject.com/dashboard)
+- [Sign in | The Odin Project](https://www.theodinproject.com/dashboard)
 
-[كورسات IT Sharks المجانية](https://it-sharks.com/)
+- [كورسات IT Sharks المجانية](https://it-sharks.com/)
 
-[تسجيل الدخول لـ منصات الاتحاد السعودي للامن السيبراني والبرمجة والدرونز](https://sso.safcsp.cloud/auth/realms/main/protocol/openid-connect/auth?client_id=dashboard&redirect_uri=https%3A%2F%2Fsatr.codes%2Fcourses%2F7134c272-d7d6-40cf-bf3f-05cbe4f02fed%2Fsession%2F57c9442f-01ad-47f4-b00d-d0bc0091bf9a%2Fview&state=47199b50-721a-4288-8387-8af89f32097b&response_mode=fragment&response_type=code&scope=openid&nonce=70cc73dc-e4a3-458b-80e6-0c8f961dda87)
+- [تسجيل الدخول لـ منصات الاتحاد السعودي للامن السيبراني والبرمجة والدرونز](https://sso.safcsp.cloud/auth/realms/main/protocol/openid-connect/auth?client_id=dashboard&redirect_uri=https%3A%2F%2Fsatr.codes%2Fcourses%2F7134c272-d7d6-40cf-bf3f-05cbe4f02fed%2Fsession%2F57c9442f-01ad-47f4-b00d-d0bc0091bf9a%2Fview&state=47199b50-721a-4288-8387-8af89f32097b&response_mode=fragment&response_type=code&scope=openid&nonce=70cc73dc-e4a3-458b-80e6-0c8f961dda87)
 
-[Homepage - Egypt FWD](https://egfwd.com/)
+- [Homepage - Egypt FWD](https://egfwd.com/)
 
 ---
 
 ### Udemy Courses [Technical]
 
-[learn-typescript](https://www.udemy.com/course/learn-typescript/)
+- [learn-typescript](https://www.udemy.com/course/learn-typescript/)
 
-[100-days-of-code-web-development-bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+- [100-days-of-code-web-development-bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 
-[the-complete-web-development-bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [the-complete-web-development-bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-[master-the-coding-interview-data-structures-algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [master-the-coding-interview-data-structures-algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
-[complete-nodejs-developer-zero-to-mastery](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+- [complete-nodejs-developer-zero-to-mastery](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
 
 ---
 
 ### Udemy Courses [Non-Technical]
 
-[agile-bootcamp/](https://www.udemy.com/course/agile-bootcamp/)
+- [agile-bootcamp/](https://www.udemy.com/course/agile-bootcamp/)
 
-[email-etiquette-email-netiquette-email-guidelines/](https://www.udemy.com/course/email-etiquette-email-netiquette-email-guidelines/)
+- [email-etiquette-email-netiquette-email-guidelines/](https://www.udemy.com/course/email-etiquette-email-netiquette-email-guidelines/)
 
-[software_methodologies/](https://www.udemy.com/course/software_methodologies/)
+- [software_methodologies/](https://www.udemy.com/course/software_methodologies/)
 
-[negotiation-tactics](https://www.udemy.com/course/negotiation-tactics/)
+- [negotiation-tactics](https://www.udemy.com/course/negotiation-tactics/)
 
-[how-to-negotiate-salary-the-negotiation-mindset](https://www.udemy.com/course/how-to-negotiate-salary-the-negotiation-mindset/)
+- [how-to-negotiate-salary-the-negotiation-mindset](https://www.udemy.com/course/how-to-negotiate-salary-the-negotiation-mindset/)
 
-[manageyourtime](https://www.udemy.com/course/manageyourtime)
+- [manageyourtime](https://www.udemy.com/course/manageyourtime)
 
-[scrum-methodology](https://www.udemy.com/course/scrum-methodology/)
+- [scrum-methodology](https://www.udemy.com/course/scrum-methodology/)
 
-[how-to-deal-with-difficult-managers](https://www.udemy.com/course/how-to-deal-with-difficult-managers)
+- [how-to-deal-with-difficult-managers](https://www.udemy.com/course/how-to-deal-with-difficult-managers)
 
-[agile-scrum-certification](https://www.udemy.com/course/agile-scrum-certification)
+- [agile-scrum-certification](https://www.udemy.com/course/agile-scrum-certification)
 
-[operations-management](https://www.udemy.com/course/operations-management/)
+- [operations-management](https://www.udemy.com/course/operations-management/)
 
 <!-- ⭕️ /> 
