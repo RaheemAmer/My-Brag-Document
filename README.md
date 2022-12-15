@@ -47,6 +47,10 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
+- [JavaScript for Beginners](https://www.scaler.com/topics/course/javascript-beginners/)
+
+- [JavaScript Tutorial | Learn JavaScript in Detail - Scaler Topics](https://www.scaler.com/topics/javascript/)
+
 - [JavaScript](https://www.codeguage.com/courses/js/)
 
 - [JavaScript Guides](https://sebhastian.com/javascript-tutorials/)
