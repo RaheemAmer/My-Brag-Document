@@ -62,6 +62,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [https://github.com/workshopper/javascripting](https://github.com/workshopper/javascripting)
 
+- [Learn Modern JavaScript Fundamentals in 7 Hours: Free Course](https://code.tutsplus.com/tutorials/learn-modern-javascript-fundamentals-free-course--cms-93282)
+
 ---
 
 ## Full Stack
