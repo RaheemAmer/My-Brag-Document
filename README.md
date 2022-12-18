@@ -69,6 +69,12 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ## Full Stack
 
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+
+- [earn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+
+- [Learn CSS Layout](https://learnlayout.com/)
+
 - [Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp](https://frontendmasters.com/bootcamp/)
 
 - [Home | Itrax Academy](https://itraxacademy.com/)
