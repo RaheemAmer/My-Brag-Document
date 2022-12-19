@@ -175,9 +175,9 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ### Projects
 
-Start Date | Finish Date | Status | Tech Stack | Project Repo | Live Demo
------------- | ------------- | ------------- | -------------
-⏲️   05-12-2022  | 📅  06-12-2022   | ✅ `Done` `2h 10m`  | HTM - CSS |  [Repo](https://user-images.githubusercontent.com/18606136/205850580-981680fe-a56d-439a-b9cf-e96ca41066b6.png) | [Demo]()
+Start Date | Finish Date | Status | Tech Stack | Project Repo 
+------------ | ------------- | ------------- | -------------  | -------------
+⏲️   05-12-2022  | 📅  06-12-2022   | ✅ `Done` `2h 10m`  | HTML - CSS |  [Repo](https://user-images.githubusercontent.com/18606136/205850580-981680fe-a56d-439a-b9cf-e96ca41066b6.png)
 
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-17h6m-blue">
