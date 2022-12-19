@@ -205,10 +205,12 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [architectural-styles-vs-architectural-patterns-vs-design-patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 
- - [the-software-architecture-chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+- [the-software-architecture-chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
  
- - [programming-language-evolution](https://herbertograca.com/2017/07/10/programming-language-evolution/)
+- [programming-language-evolution](https://herbertograca.com/2017/07/10/programming-language-evolution/)
  
- - [how to architect your growth story](https://production-ii5m6dv44aa.triplebyte.com/blog/think-a-job-can-help-you-grow-as-an-engineer-heres-the-right-way-to-explain-that-in-the-interview)
+- [how to architect your growth story](https://production-ii5m6dv44aa.triplebyte.com/blog/think-a-job-can-help-you-grow-as-an-engineer-heres-the-right-way-to-explain-that-in-the-interview)
 
- - [what-you-need-to-know-about-coding-at-a-startup-vs-big-tech](https://production-ii5m6dv44aa.triplebyte.com/blog/what-you-need-to-know-about-coding-at-a-startup-vs-big-tech)
+- [what-you-need-to-know-about-coding-at-a-startup-vs-big-tech](https://production-ii5m6dv44aa.triplebyte.com/blog/what-you-need-to-know-about-coding-at-a-startup-vs-big-tech)
+
+- [how-your-sr-devs-incurred-technical-debt](https://codeopinion.com/how-your-sr-devs-incurred-technical-debt/)
