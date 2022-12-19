@@ -208,3 +208,5 @@ Start Date | Finish Date | Status | Course Link / Certificate
  - [the-software-architecture-chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
  
  - [programming-language-evolution](https://herbertograca.com/2017/07/10/programming-language-evolution/)
+ 
+ - [how to architect your growth story](https://production-ii5m6dv44aa.triplebyte.com/blog/think-a-job-can-help-you-grow-as-an-engineer-heres-the-right-way-to-explain-that-in-the-interview)
