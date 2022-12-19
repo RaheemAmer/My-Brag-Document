@@ -153,7 +153,9 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ---
 
-### Videos [Technical]
+### Videos 
+
+#### [Technical]
 
 - [ Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf ](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
@@ -165,35 +167,20 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [ Learn Functional Programming in JavaScript ](https://www.youtube.com/watch?v=n_F8PD4YxG0)
 
----
-
-### Videos [Non-Technical]
+#### [Non-Technical]
 
 - []()
-
+- 
 ---
 
-### Projects [HTML-CSS]
+### Projects
 
-- []()
+Start Date | Finish Date | Status | Tech Stack | Project Repo | Live Demo
+------------ | ------------- | ------------- | -------------
+⏲️   05-12-2022  | 📅  06-12-2022   | ✅ `Done` `2h 10m`  | HTM - CSS |  [Repo](https://user-images.githubusercontent.com/18606136/205850580-981680fe-a56d-439a-b9cf-e96ca41066b6.png) | [Demo]()
 
----
 
-### Projects [HTML-CSS-JS]
-
-- []()
-
----
-
-### Projects [Frontend]
-
-- []()
-
----
-
-### Projects [FullStack]
-
-- []()
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-17h6m-blue">
 
 ---
 
