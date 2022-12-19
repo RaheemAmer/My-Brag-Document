@@ -131,11 +131,11 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ### Udemy Courses [Non-Technical]
 
-- [agile-bootcamp/](https://www.udemy.com/course/agile-bootcamp/)
+- [agile-bootcamp](https://www.udemy.com/course/agile-bootcamp/)
 
-- [email-etiquette-email-netiquette-email-guidelines/](https://www.udemy.com/course/email-etiquette-email-netiquette-email-guidelines/)
+- [email-etiquette-email-netiquette-email-guidelines](https://www.udemy.com/course/email-etiquette-email-netiquette-email-guidelines/)
 
-- [software_methodologies/](https://www.udemy.com/course/software_methodologies/)
+- [software_methodologies](https://www.udemy.com/course/software_methodologies/)
 
 - [negotiation-tactics](https://www.udemy.com/course/negotiation-tactics/)
 
