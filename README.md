@@ -21,6 +21,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ##  TODO
 ### JavaScript
 
+- [Human JavaScript](http://read.humanjavascript.com/)
+
 - [javascript-computer-science-fundamentals](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
 
 - [Learn JavaScript Programming](https://www.programiz.com/javascript)
