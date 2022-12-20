@@ -75,51 +75,51 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 ### Foundation and Fundamentals
 
-[Software Engineering Tutorial - Scaler Topics](https://www.scaler.com/topics/software-engineering/)
+- [Software Engineering Tutorial - Scaler Topics](https://www.scaler.com/topics/software-engineering/)
 
-[Operating System Tutorial | Learn Operating System - Scaler Topics](https://www.scaler.com/topics/operating-system/)
+- [Operating System Tutorial | Learn Operating System - Scaler Topics](https://www.scaler.com/topics/operating-system/)
 
-[Computer Networks Tutorial | Learn Computer Networks in Detail - Scaler Topics](https://www.scaler.com/topics/computer-network/)
+- [Computer Networks Tutorial | Learn Computer Networks in Detail - Scaler Topics](https://www.scaler.com/topics/computer-network/)
 
-[Git Tutorial | Learn Git in Detail - Scaler Topics](https://www.scaler.com/topics/git/)
+- [Git Tutorial | Learn Git in Detail - Scaler Topics](https://www.scaler.com/topics/git/)
 
-[Quora System Design](https://www.scaler.com/topics/course/quora-system-design/)
+- [Quora System Design](https://www.scaler.com/topics/course/quora-system-design/)
 
-[Dynamic Programming](https://www.scaler.com/topics/course/dynamic-programming/)
+- [Dynamic Programming](https://www.scaler.com/topics/course/dynamic-programming/)
 
-[Instagram System Design](https://www.scaler.com/topics/course/instagram-system-design/)
+- [Instagram System Design](https://www.scaler.com/topics/course/instagram-system-design/)
 
-[Design Patterns Tutorial | Learn Design Patterns in Detail - Scaler Topics](https://www.scaler.com/topics/design-patterns/)
+- [Design Patterns Tutorial | Learn Design Patterns in Detail - Scaler Topics](https://www.scaler.com/topics/design-patterns/)
 
-[Cyber Security Tutorial | Learn Cyber Security in Detail - Scaler Topics](https://www.scaler.com/topics/cyber-security/)
+- [Cyber Security Tutorial | Learn Cyber Security in Detail - Scaler Topics](https://www.scaler.com/topics/cyber-security/)
 
-[Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
+- [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
 ### Frontend
 
-[HTML Tutorial | Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)
+- [HTML Tutorial | Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)
 
-[CSS Tutorial | Learn CSS in Detail - Scaler Topics](https://www.scaler.com/topics/css/)
+- [CSS Tutorial | Learn CSS in Detail - Scaler Topics](https://www.scaler.com/topics/css/)
 
-[JavaScript Tutorial | Learn JavaScript in Detail - Scaler Topics](https://www.scaler.com/topics/javascript/)
+- [JavaScript Tutorial | Learn JavaScript in Detail - Scaler Topics](https://www.scaler.com/topics/javascript/)
 
-[Angular Tutorial | Learn Angular in Detail - Scaler Topics](https://www.scaler.com/topics/angular/)
+- [Angular Tutorial | Learn Angular in Detail - Scaler Topics](https://www.scaler.com/topics/angular/)
 
 ### Backend
 
-[SQL Tutorial | Learn SQL in Detail - Scaler Topics](https://www.scaler.com/topics/sql/)
+- [SQL Tutorial | Learn SQL in Detail - Scaler Topics](https://www.scaler.com/topics/sql/)
 
-[SQL using MySQL](https://www.scaler.com/topics/course/sql-using-mysql-course/)
+- [SQL using MySQL](https://www.scaler.com/topics/course/sql-using-mysql-course/)
 
-[SQL v/s NoSQL](https://www.scaler.com/topics/course/sql-vs-nosql/)
+- [SQL v/s NoSQL](https://www.scaler.com/topics/course/sql-vs-nosql/)
 
-[DBMS Tutorial | Database Management System - Scaler Topics](https://www.scaler.com/topics/dbms/)
+- [DBMS Tutorial | Database Management System - Scaler Topics](https://www.scaler.com/topics/dbms/)
 
-[DBMS](https://www.scaler.com/topics/course/dbms/)
+- [DBMS](https://www.scaler.com/topics/course/dbms/)
 
-[AWS Tutorial | Learn AWS in Detail - Scaler Topics](https://www.scaler.com/topics/aws/)
+- [AWS Tutorial | Learn AWS in Detail - Scaler Topics](https://www.scaler.com/topics/aws/)
 
-[Spring Boot Tutorial | Learn Spring Boot in Detail - Scaler Topics](https://www.scaler.com/topics/spring-boot/)
+- [Spring Boot Tutorial | Learn Spring Boot in Detail - Scaler Topics](https://www.scaler.com/topics/spring-boot/)
 
 ---
 
