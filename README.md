@@ -81,19 +81,19 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Computer Networks Tutorial | Learn Computer Networks in Detail - Scaler Topics](https://www.scaler.com/topics/computer-network/)
 
+- [Cyber Security Tutorial | Learn Cyber Security in Detail - Scaler Topics](https://www.scaler.com/topics/cyber-security/)
+
 - [Git Tutorial | Learn Git in Detail - Scaler Topics](https://www.scaler.com/topics/git/)
 
-- [Quora System Design](https://www.scaler.com/topics/course/quora-system-design/)
+- [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
 - [Dynamic Programming](https://www.scaler.com/topics/course/dynamic-programming/)
 
-- [Instagram System Design](https://www.scaler.com/topics/course/instagram-system-design/)
-
 - [Design Patterns Tutorial | Learn Design Patterns in Detail - Scaler Topics](https://www.scaler.com/topics/design-patterns/)
 
-- [Cyber Security Tutorial | Learn Cyber Security in Detail - Scaler Topics](https://www.scaler.com/topics/cyber-security/)
+- [Quora System Design](https://www.scaler.com/topics/course/quora-system-design/)
 
-- [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
+- [Instagram System Design](https://www.scaler.com/topics/course/instagram-system-design/)
 
 ### Frontend
 
