@@ -14,9 +14,10 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   09-12-2022  | 📅  11-12-2022   | ✅ `Done` `4h39m`  |  💼  - 08 - [Git: Become an Expert in Git & GitHub](https://www.udemy.com/course/git-expert-4-hours/)
 ⏲️   15-12-2022  | 📅  15-12-2022   | ✅ `Done` `1h30m`  |  💼  - 09 - [JavaScript for Cats](http://jsforcats.com/)
 ⏲️   15-12-2022  | 📅  17-12-2022   | ✅ `Done` `4h`  |  💼  - 10 - [Rithm School JavaScript Fundamentals](https://www.rithmschool.com/courses/javascript)
-⏲️   17-12-2022  | 📅  21-12-2022   | ⏲️ `Pending` `25h`  |  💼  - 11 - [Rithm School : Intermediate JavaScript Part I](https://www.rithmschool.com/courses/intermediate-javascript)
+⏲️   17-12-2022  | 📅  21-12-2022   | ✅ `Done` `25h`  |  💼  - 11 - [Rithm School : Intermediate JavaScript Part I](https://www.rithmschool.com/courses/intermediate-javascript)
+⏲️   21-12-2022  | 📅  22-12-2022   | ⏲️ `Done` `25h`  |  💼  - 12 - [Rithm School Intermediate JavaScript Part II](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-17h6m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-42h6m-blue">
 
 ---
 
