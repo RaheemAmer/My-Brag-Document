@@ -15,8 +15,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   15-12-2022  | 📅  15-12-2022   | ✅ `Done` `1h30m`  |  💼  - 09 - [JavaScript for Cats](http://jsforcats.com/)
 ⏲️   15-12-2022  | 📅  17-12-2022   | ✅ `Done` `4h`  |  💼  - 10 - [Rithm School JavaScript Fundamentals](https://www.rithmschool.com/courses/javascript)
 ⏲️   17-12-2022  | 📅  21-12-2022   | ✅ `Done` `25h`  |  💼  - 11 - [Rithm School : Intermediate JavaScript Part I](https://www.rithmschool.com/courses/intermediate-javascript)
-⏲️   21-12-2022  | 📅  22-12-2022   | ✅ `Done` `25h`  |  💼  - 12 - [Rithm School Intermediate JavaScript Part II](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
-⏲️   22-12-2022  | 📅  24-12-2022   | ⏲️ `Pending` `25h`  |  💼  - 13- [Rithm School Advanced JavaScript Part I](https://www.rithmschool.com/courses/advanced-javascript)
+⏲️   21-12-2022  | 📅  22-12-2022   | ✅ `Done` `25h`  |  💼  - 12 - [Rithm School : Intermediate JavaScript Part II](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+⏲️   22-12-2022  | 📅  24-12-2022   | ⏲️ `Pending` `25h`  |  💼  - 13- [Rithm School : Advanced JavaScript Part I](https://www.rithmschool.com/courses/advanced-javascript)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-67h6m-blue">
 
