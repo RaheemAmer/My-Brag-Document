@@ -97,6 +97,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Instagram System Design](https://www.scaler.com/topics/course/instagram-system-design/)
 
+- [Jasmine Testing Framework Course](https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl)
+
 ### Frontend
 
 - [HTML Tutorial | Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)
