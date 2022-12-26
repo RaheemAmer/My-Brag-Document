@@ -99,6 +99,8 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Jasmine Testing Framework Course](https://www.youtube.com/playlist?list=PL_euSNU_eLbcpJdoM-WWzUlNNVM4TwtMl)
 
+- [Stand Out as aWeb Designer](https://designfulltime.com/)
+
 ### Frontend
 
 - [HTML Tutorial | Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)
