@@ -19,7 +19,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   22-12-2022  | 📅  26-12-2022   | ✅ `Done` `30h`  |  💼  - 13 - [Rithm School : Advanced JavaScript Part I](https://www.rithmschool.com/courses/advanced-javascript)
 ⏲️   27-12-2022  | 📅  26-12-2022   | ⏲️ `Done` `30h`  |  💼  - 13 - [Rithm School : Advanced JavaScript Part I](https://www.rithmschool.com/courses/advanced-javascript)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-67h6m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-97h6m-blue">
 
 ---
 
