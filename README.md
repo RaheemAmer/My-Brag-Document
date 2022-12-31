@@ -17,7 +17,7 @@ Start Date | Finish Date | Status | Course Link / Certificate
 ⏲️   17-12-2022  | 📅  21-12-2022   | ✅ `Done` `25h`  |  💼  - 11 - [Rithm School : Intermediate JavaScript Part I](https://www.rithmschool.com/courses/intermediate-javascript)
 ⏲️   21-12-2022  | 📅  22-12-2022   | ✅ `Done` `25h`  |  💼  - 12 - [Rithm School : Intermediate JavaScript Part II](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
 ⏲️   22-12-2022  | 📅  26-12-2022   | ✅ `Done` `30h`  |  💼  - 13 - [Rithm School : Advanced JavaScript Part I](https://www.rithmschool.com/courses/advanced-javascript)
-⏲️   27-12-2022  | 📅  30-12-2022   | ⏲️ `Pending` `30h`  |  💼  - 14 - [Rithm School : Advanced JavaScript Part II](https://www.rithmschool.com/courses/advanced-javascript-part-2)
+⏲️   27-12-2022  | 📅  31-12-2022   | ⏲️ `Pending` `35h`  |  💼  - 14 - [Rithm School : Advanced JavaScript Part II](https://www.rithmschool.com/courses/advanced-javascript-part-2)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20Spent-97h6m-blue">
 
