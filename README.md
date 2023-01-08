@@ -174,6 +174,10 @@ Start Date | Finish Date | Status | Course Link / Certificate
 
 - [Homepage - Egypt FWD](https://egfwd.com/)
 
+- [Build a Web App with React](https://blog.glitch.com/post/react-starter-kit)
+
+- [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
+
 ---
 
 ### Udemy Courses [Technical]
